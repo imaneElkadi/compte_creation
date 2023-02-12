@@ -8,7 +8,7 @@
 </tr>
 <tr>
 <td> <label for='psw'> Login</label></td>
-<td> <input style='border-color:purple;' type='password' name='psw'  placeholder="user name" ></td>
+<td> <input style='border-color:purple;' type='password' name='psw'  placeholder="password" ></td>
 </tr>
   
 <tr>
