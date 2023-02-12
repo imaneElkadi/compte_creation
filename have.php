@@ -10,9 +10,8 @@
 <td> <label for='psw'> Login</label></td>
 <td> <input style='border-color:purple;' type='password' name='psw'  placeholder="password" ></td>
 </tr>
-  
+  <hr>
 <tr>
-
 <td> <input  style='border-color:pink;' type='submit' name='valider' value='valider'></td>
 </tr>
 </table>
