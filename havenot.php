@@ -22,9 +22,8 @@
 <td> <label for='psw'> New Password</label></td>
 <td> <input style='border-color:brown;' type='password' name='psw'  placeholder="password" ></td>
 </tr>
-  
+  <hr>
 <tr>
-
 <td> <input  style='border-color:black;' type='submit' name='valider' value='valider'></td>
 </tr>
 </table>
