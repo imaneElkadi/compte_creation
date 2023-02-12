@@ -4,23 +4,23 @@
 <table>
 <tr>
 <td> <label for='name'> Name :</label></td>
-<td> <input style='border-color:black;' type='text' name='name' ></td>
+<td> <input style='border-color:black;' type='text' name='name'  placeholder="name"></td>
 </tr>
 <tr>
 <td> <label for='lastname'> Last Name :</label></td>
-<td> <input style='border-color:yellow;' type='text' name='lastname' ></td>
+<td> <input style='border-color:yellow;' type='text' name='lastname'  placeholder="last name" ></td>
 </tr>
 <tr>
 <td> <label for='email'> Email :</label></td>
-<td> <input style='border-color:purple;' type='email' name='email' ></td>
+<td> <input style='border-color:purple;' type='email' name='email'  placeholder="email" ></td>
 </tr>
 <tr>
 <td> <label for='username'> User Name :</label></td>
-<td> <input style='border-color:white;' type='text' name='username' ></td>
+<td> <input style='border-color:white;' type='text' name='username'  placeholder="user name"></td>
 </tr>
 <tr>
 <td> <label for='psw'> New Password</label></td>
-<td> <input style='border-color:brown;' type='password' name='psw' ></td>
+<td> <input style='border-color:brown;' type='password' name='psw'  placeholder="password" ></td>
 </tr>
   
 <tr>
