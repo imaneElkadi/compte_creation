@@ -4,11 +4,11 @@
 <table>
 <tr>
 <td> <label for='user'> User :</label></td>
-<td> <input style='border-color:red;' type='text' name='user' ></td>
+<td> <input style='border-color:red;' type='text' name='user' placeholder="user name"></td>
 </tr>
 <tr>
 <td> <label for='psw'> Login</label></td>
-<td> <input style='border-color:purple;' type='password' name='psw' ></td>
+<td> <input style='border-color:purple;' type='password' name='psw'  placeholder="user name" ></td>
 </tr>
   
 <tr>
