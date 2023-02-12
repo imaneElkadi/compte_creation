@@ -4,28 +4,28 @@
 <table>
 <tr>
 <td> <label for='name'> Name :</label></td>
-<td> <input style='border-color:red;' type='text' name='name' ></td>
+<td> <input style='border-color:black;' type='text' name='name' ></td>
 </tr>
 <tr>
 <td> <label for='lastname'> Last Name :</label></td>
-<td> <input style='border-color:red;' type='text' name='lastname' ></td>
+<td> <input style='border-color:yellow;' type='text' name='lastname' ></td>
 </tr>
 <tr>
 <td> <label for='email'> Email :</label></td>
-<td> <input style='border-color:red;' type='email' name='email' ></td>
+<td> <input style='border-color:purple;' type='email' name='email' ></td>
 </tr>
 <tr>
 <td> <label for='username'> User Name :</label></td>
-<td> <input style='border-color:red;' type='text' name='username' ></td>
+<td> <input style='border-color:white;' type='text' name='username' ></td>
 </tr>
 <tr>
 <td> <label for='psw'> New Password</label></td>
-<td> <input style='border-color:purple;' type='password' name='psw' ></td>
+<td> <input style='border-color:brown;' type='password' name='psw' ></td>
 </tr>
   
 <tr>
 
-<td> <input  style='border-color:pink;' type='submit' name='valider' value='valider'></td>
+<td> <input  style='border-color:black;' type='submit' name='valider' value='valider'></td>
 </tr>
 </table>
 </form>
