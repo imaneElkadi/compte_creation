@@ -1,0 +1,50 @@
+// how to set to background a color?    
+$colorMap = [
+    'rood' => 'red',
+    'oranje' => 'orange',
+    'geel' => 'yellow',
+    'groen' => 'green',
+    'blauw' => 'blue'
+];
+
+
+if (isset($_GET['kleur']) && isset($colorMap[$_GET['kleur']])) {
+    $bgColor = $colorMap[$_GET['kleur']];
+} else {
+    $bgColor = DEFAULT_COLOR
+}
+
+
+echo '<body style="background-color: '.$bgColor.'">';
+
+
+
+
+<!--DELIMITER-->Source: https://stackoverflow.com/questions/40884548
+
+// button ?
+$('.button').click(function() {
+  $.ajax({
+    type: "POST",
+    url: "some.php",
+    data: { name: "John" }
+  }).done(function( msg ) {
+    alert( "Data Saved: " + msg );
+  });
+});
+
+
+<?php
+    function abc($name){
+        // Your code here
+    }
+?>
+
+
+
+
+<!--DELIMITER-->Source: https://stackoverflow.com/questions/20738329
+
+
+
+
